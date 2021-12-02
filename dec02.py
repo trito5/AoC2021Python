@@ -32,5 +32,5 @@ def part_2(input):
     print(horizontal * depth)
 
 numbers = get_input('input02.txt')
-#part_1(numbers)
+part_1(numbers)
 part_2(numbers)
